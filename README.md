@@ -1,4 +1,4 @@
-# Project: **c10n‑site** – Construction Site Management PWA
+# Project: **sternsite** – Construction Site Management PWA
 
 ## 1. Project Overview
 **c10n‑site** is a multi‑tenant Progressive Web Application (PWA) that streamlines construction‑site operations.  
